@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- LinkedIn https://www.linkedin.com/in/rodolfo-bertini-rocha-b04675153/
 - Discord: RodolfoBertini#5906
 - FreeCodeCamp: https://www.freecodecamp.org/RodolfoBertini
 
