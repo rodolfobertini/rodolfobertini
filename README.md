@@ -989,3 +989,6 @@ Here are some ideas to get you started:
 
 
 <!-- ![logo-digital](https://github.com/rodolfobertini/rodolfobertini/assets/132242813/6e603083-2be7-4ebc-a70a-cdf84e102e71) -->
+<!-- ![dnshierarquia-removebg](https://github.com/rodolfobertini/rodolfobertini/assets/132242813/c9fbe749-59b5-4c4e-8fdb-7e6dcac21609) -->
+
+
