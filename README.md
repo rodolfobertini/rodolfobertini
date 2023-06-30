@@ -992,7 +992,9 @@ Here are some ideas to get you started:
 <!-- ![dnshierarquia-removebg](https://github.com/rodolfobertini/rodolfobertini/assets/132242813/c9fbe749-59b5-4c4e-8fdb-7e6dcac21609) -->
 <!-- ![FUNCIONAMENTO](https://github.com/rodolfobertini/rodolfobertini/assets/132242813/264f06cd-1194-424b-9187-7b6cad4b3f94)
 ![DNS RESOLVER](https://github.com/rodolfobertini/rodolfobertini/assets/132242813/e9b0807d-8937-4053-ab7c-16671cb2c624)
- --> 
+![Captura de tela 2023-06-30 042207](https://github.com/rodolfobertini/rodolfobertini/assets/132242813/c578364d-b21d-4555-9dd4-e88dd52ab5d0)
+ ![Captura_de_tela_2023-06-30_042207-removebg-preview](https://github.com/rodolfobertini/rodolfobertini/assets/132242813/b34003f5-473d-4438-a9d5-7132460728f3)
+--> 
 <!-- ![HIERARQUIA1](https://github.com/rodolfobertini/rodolfobertini/assets/132242813/a3a81dcd-c821-4e42-b93b-a6da7664ab6b) -->
 
 
