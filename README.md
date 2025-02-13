@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- Discord: RodolfoBertini#5906
 - FreeCodeCamp: https://www.freecodecamp.org/RodolfoBertini
 
 <!--
